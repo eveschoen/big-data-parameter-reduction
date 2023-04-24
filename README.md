@@ -1,6 +1,6 @@
 # big-data-parameter-reduction
 
-This repository includes notebooks for reproducing our results from our parameter reduction final project in DS 5110: Big Data Systems.
+This repository includes notebooks for reproducing our results from our parameter reduction final project in DS 5110: Big Data Systems as well as the python package we created for the project.
 
 We do not include the data we imported in this repository due to large space needs. The models can be found on Hugging Face. To run these notebooks, they should be downloaded as state dictionaries and all paths in the notebooks should be updated accordingly.
 
