@@ -1,6 +1,6 @@
 """
 This module, SpaceSaverBERT, is intended to save on space needed to store BERT deep learning models. In its current iteration, SpaceSaverBERT
-is written to work with any HuggingFace NLP model.
+is written to work with any Hugging Face NLP model.
 """
 
 # import needed packages
